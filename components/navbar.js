@@ -70,7 +70,7 @@ export default function Navbar() {
               </li>
               <li>
                 <Link
-                  href={`${origin}#services`}
+                  href={`${origin}/services`}
                   className="relative py-2.5 duration-300 ease-linear hover:text-primary after:absolute after:w-full after:left-0 after:bottom-0 after:h-px after:rounded-md after:origin-left after:ease-linear after:duration-300 after:scale-x-0 hover:after:scale-100 after:bg-primary"
                 >
                   Services
@@ -78,18 +78,18 @@ export default function Navbar() {
               </li>
               <li>
                 <Link
-                  href={`${origin}/vehicle`}
+                  href={`${origin}/about`}
                   className="relative py-2.5 duration-300 ease-linear hover:text-primary after:absolute after:w-full after:left-0 after:bottom-0 after:h-px after:rounded-md after:origin-left after:ease-linear after:duration-300 after:scale-x-0 hover:after:scale-100 after:bg-primary"
                 >
-                  Rent
+                  About
                 </Link>
               </li>
               <li>
                 <Link
-                  href={`${origin}#vehicles`}
+                  href={`${origin}/works`}
                   className="relative py-2.5 duration-300 ease-linear hover:text-primary after:absolute after:w-full after:left-0 after:bottom-0 after:h-px after:rounded-md after:origin-left after:ease-linear after:duration-300 after:scale-x-0 hover:after:scale-100 after:bg-primary"
                 >
-                  Vehicles
+                  Our Works
                 </Link>
               </li>
               <li>
