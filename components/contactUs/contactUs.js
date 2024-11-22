@@ -18,7 +18,7 @@ const Contact = () => {
               Contact Us
             </h2>
             <p className="text-gray-500 sm:text-xl text-center px-20">
-              Have any questions or need assistance with our services? Feel free to contact us, and we'll be happy to help you.
+              Have any questions or need assistance with our services? Feel free to contact us, and we will be happy to help you.
             </p>
           </div>
           <div className="flex flex-col lg:flex-row items-stretch lg:items-start gap-10 lg:gap-20">
