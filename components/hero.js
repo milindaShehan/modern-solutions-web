@@ -13,7 +13,7 @@ export default function Hero() {
               New
             </span>{" "}
             <span className="text-sm font-medium">
-              Flowbite is out! See what's new
+              Flowbite is out! See whats new
             </span>
             {/* <svg
               className="ml-2 w-5 h-5"
