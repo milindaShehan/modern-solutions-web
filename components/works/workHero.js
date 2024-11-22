@@ -13,16 +13,10 @@ export default function ShowcaseHero() {
           </p>
           <div className="flex flex-col items-center space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
             <a
-              href="#projects"
+              href="#our-works"
               className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-white bg-primary rounded-lg hover:bg-secondary  foc"
             >
               View Our Works
-            </a>
-            <a
-              href="#contact"
-              className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-gray-900 bg-white border border-gray-300 rounded-lg hover:bg-gray-100 f"
-            >
-              Contact Us
             </a>
           </div>
         </div>
