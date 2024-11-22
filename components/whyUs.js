@@ -1,5 +1,6 @@
 import React from "react";
 import { FaLongArrowAltRight } from "react-icons/fa";
+import Numbers from "./numbers";
 
 const Services = () => {
   return (
@@ -42,8 +43,12 @@ const Services = () => {
     </p>
   </div>
 </div>
+<div className="pt-20">
+        <Numbers />
+      </div>
 
       </div>
+      
     </section>
   );
 };
