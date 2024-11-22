@@ -60,7 +60,7 @@ export default function HeroSection() {
             <div className="w-full flex justify-center  lg:justify-center items-center">
               <div className="sm:w-[500px] w-full sm:h-[646px] h-full sm:bg-gray-100 rounded-3xl sm:border border-gray-200 relative max-w-full max-h-[500px]">
                 <img
-                  className="sm:mt-5 sm:ml-5 w-full h-full rounded-3xl object-cover"
+                  className="sm:mt-5 sm:ml-5 w-full h-full rounded-3xl object-cover group-hover:scale-110 transition-transform duration-300 ease-in-out"
                   src="/classroom.jpg"
                   alt="About Us image"
                 />
