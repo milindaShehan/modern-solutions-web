@@ -118,6 +118,7 @@ const TestimonialSlider = () => {
           </div>
         </div>
       </div>
+    
     </section>
   );
 };
