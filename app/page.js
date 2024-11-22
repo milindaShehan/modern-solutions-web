@@ -3,6 +3,7 @@ import Hero from "@/components/hero"
 import Services from "@/components/services/service";
 import AboutUs from "@/components/aboutUs"
 import WhyUs from "@/components/whyUs"
+import Testimonial from "@/components/clients/TestimonialSlider";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Services />
       <AboutUs />
       <WhyUs />
+      <Testimonial />
 
     </>
   );
