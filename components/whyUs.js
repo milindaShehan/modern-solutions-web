@@ -11,7 +11,7 @@ const Services = () => {
           </h2>
           <p className="text-gray-500 sm:text-xl text-center ">
             We are committed to driving your business forward with tailored
-            solutions, expert guidance, and a customer-focused approach. Here's
+            solutions, expert guidance, and a customer-focused approach. Here is
             why we stand out:
           </p>
         </div>
