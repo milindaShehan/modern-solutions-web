@@ -4,6 +4,8 @@ import Services from "@/components/services/service";
 import AboutUs from "@/components/aboutUs"
 import WhyUs from "@/components/whyUs"
 import Testimonial from "@/components/clients/TestimonialSlider";
+import Contact from "@/components/contactUs/contactUs";
+import Footer from "@/components/footer"
 
 export default function Home() {
   return (
@@ -14,6 +16,8 @@ export default function Home() {
       <AboutUs />
       <WhyUs />
       <Testimonial />
+      <Contact />
+      <Footer />
 
     </>
   );
