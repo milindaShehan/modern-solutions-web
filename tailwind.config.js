@@ -10,9 +10,9 @@ module.exports = {
       colors: {
         background: "#ffffff", // Light background color
         foreground: "#000000", // Primary text color
-        primary: "#FE6D31",
+        primary: "#7ba541",
          // Added primary color
-        secondary: "#fee0d4", // Example secondary color (gray)
+        secondary: "#d0dc32", // Example secondary color (gray)
         accent: "#fbbf24", // Example accent color (yellow)
         muted: "#f3f4f6", // Muted background color for sections
         border: "#e5e7eb", // Light border color
