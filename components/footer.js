@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="md:flex md:justify-between">
           <div>
             <div className="mb-6 md:mb-0">
-              <a href="https://msiclabs.com" className="flex items-center">
+              <a href="https://modernsolutions.lk" className="flex items-center">
                 <img
                   src="/LOGOModern.png" // Replace with Modern Equipment Solutions logo
                   className="mr-3 h-20"
