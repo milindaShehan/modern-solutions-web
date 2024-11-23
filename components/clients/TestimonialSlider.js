@@ -63,10 +63,46 @@ const TestimonialSlider = () => {
       rating: 5,
       title: 'Owner of Ballena Regency Hotel, Mirissa',
       content: 'Their innovative solutions have set a new standard for hospitality in our hotel. The team is reliable and always ready to go the extra mile. Thank you for enhancing our operations and guest satisfaction.',
-      customer: 'Ruwan Karunaratne',
-      image: '/RuwanKarunaratne.jpg',
+      customer: 'Chamika A',
+      image: '/chamikaA.jpg',
+    },
+    {
+      rating: 5,
+      title: 'Director of Future Minds Tuition Institute - Nugegoda',
+      content: 'Their business digitalization service has streamlined our operations, from student registrations to scheduling. Parents and students have appreciated the seamless system, and it has allowed us to focus on delivering quality education.',
+      customer: 'Pradeep Kumara',
+      image: '/PradeepK.jpg',
+    },
+    {
+      rating: 5,
+      title: 'CEO of Horizon Technologies - Australia',
+      content: 'Partnering with their team has been a game-changer for our IT operations. Their tailored solutions for digital marketing and software development have boosted our brand visibility and operational efficiency. Highly recommend their expertise!',
+      customer: 'James Peterson',
+      image: '/JamesP.jpg',
+    },
+    {
+      rating: 5,
+      title: 'Managing Director of CloudSync Solutions',
+      content: 'The hotline services and employee recruitment solutions provided by them have significantly improved our customer support. Their professionalism and attention to detail are unmatched. A big thank you to the entire team!',
+      customer: 'Kamal Attanayaka',
+      image: '/Attanayaka.jpg',
+    },
+    {
+      rating: 5,
+      title: 'Owner of Global Reach Events',
+      content: 'Their event management services have redefined how we plan and execute corporate events. Their attention to detail and creative ideas have made every event a resounding success. Looking forward to more collaborations!',
+      customer: 'A K P Kumararatnam',
+      image: '/Kumararatnam.jpg',
+    },
+    {
+      rating: 5,
+      title: 'Managing Partner at Luxe Escapes',
+      content: 'Thanks to their promotional marketing services, we have seen an exponential increase in bookings. The team understood our luxury market niche and delivered exceptional results. Truly a reliable partner!',
+      customer: 'Ayesha Smaranayake',
+      image: '/AyeshaK.jpg',
     },
   ];
+  
   
   
 
