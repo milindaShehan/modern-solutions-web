@@ -33,37 +33,37 @@ const Footer = () => {
               </h2>
               <ul className="text-gray-600">
                 <li className="mb-2">
-                  <a href="/business-digitalization" className="hover:text-primary">
+                  <a href="/services/#business-digitalization" className="hover:text-primary">
                     Business Digitalization
                   </a>
                 </li>
                 <li className="mb-2">
-                  <a href="/event-management" className="hover:text-primary">
+                  <a href="/services/#event-management" className="hover:text-primary">
                     Event Management
                   </a>
                 </li>
                 <li className="mb-2">
-                  <a href="/software-solutions" className="hover:text-primary">
+                  <a href="/services/#business-analysis-software-solutions" className="hover:text-primary">
                     Business Analysis & Software Solutions
                   </a>
                 </li>
                 <li className="mb-2">
-                  <a href="/digital-marketing" className="hover:text-primary">
+                  <a href="/services/#digital-marketing" className="hover:text-primary">
                     Digital Marketing
                   </a>
                 </li>
                 <li className="mb-2">
-                  <a href="/promotional-marketing" className="hover:text-primary">
+                  <a href="/services/#promotional-marketing" className="hover:text-primary">
                     Promotional Marketing
                   </a>
                 </li>
                 <li className="mb-2">
-                  <a href="/hotline-services" className="hover:text-primary">
+                  <a href="/services/#hotline-services" className="hover:text-primary">
                     Hotline Services
                   </a>
                 </li>
                 <li className="mb-2">
-                  <a href="/recruitment-services" className="hover:text-primary">
+                  <a href="/services/#employee-recruitment" className="hover:text-primary">
                     3rd Party Employee Recruitment
                   </a>
                 </li>
