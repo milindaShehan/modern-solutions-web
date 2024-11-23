@@ -111,7 +111,7 @@ export default function Navbar() {
             </ul>
             <div className="flex sm:items-center lg:min-w-max mt-10 lg:mt-0">
               <Link
-                href="tel:+94711662297"
+                href="tel:+94707377311"
                 className="px-6 items-center h-12 rounded-3xl text-pink-700 text-white  bg-primary  duration-300 ease-linear flex justify-center w-full sm:w-auto"
               >
                 <MdWifiCalling3 className="text-white mr-4" />
