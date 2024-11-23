@@ -34,7 +34,7 @@ const Scooter = () => {
                 <div className="w-full justify-start items-center gap-8 grid md:grid-cols-2 grid-cols-1">
                   <div className="w-full h-full p-3.5 rounded-xl border border-gray-200  transition-all duration-700 ease-in-out flex-col justify-start items-start gap-2.5 inline-flex bg-white">
                     <h4 className="text-gray-900 text-2xl font-bold font-manrope leading-9">
-                    10+ Years
+                    2+ Years
                     </h4>
                     <p className="text-gray-500 text-base font-normal leading-relaxed">
                     Empowering businesses with innovative solutions and digital transformations.
@@ -42,7 +42,7 @@ const Scooter = () => {
                   </div>
                   <div className="w-full h-full p-3.5 rounded-xl border border-gray-200  transition-all duration-700 ease-in-out flex-col justify-start items-start gap-2.5 inline-flex bg-white">
                     <h4 className="text-gray-900 text-2xl font-bold font-manrope leading-9">
-                    300+ Clients
+                    200+ Clients
                     </h4>
                     <p className="text-gray-500 text-base font-normal leading-relaxed">
                     Trusted by organizations worldwide to deliver exceptional results and value.
