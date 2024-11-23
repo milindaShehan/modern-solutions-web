@@ -68,7 +68,7 @@ const Contact = () => {
                       <IoLocation className="text-black text-lg" />
                     </div>
                     <a
-                      href="https://maps.app.goo.gl/U5uLgzMzxJC7mVTz5"
+                      href="https://maps.app.goo.gl/JUd4Da4EkLemyCqd7"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-gray-700 text-sm ml-4"
