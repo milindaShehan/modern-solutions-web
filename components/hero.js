@@ -1,9 +1,9 @@
 import Link from "next/link";
 
 export default function HeroSection() {
-  const phoneNumber = "+94711662297";
+  const phoneNumber = "+94707377311";
   const message =
-    "Hello! I'm interested in booking a vehicle from Ceylon Rent.";
+    "Hello Modern Equipment Solutions, I am interested in your services. Could you please provide more information on your business digitalization, event management, or any other offerings?";
 
   return (
     <>
