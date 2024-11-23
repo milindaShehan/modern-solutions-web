@@ -42,8 +42,8 @@ const TestimonialSlider = () => {
       rating: 5,
       title: 'Owner of CANBERRA HOLIDAYS - Mirissa Hotels',
       content: 'Working with the service team has been a transformative experience for our hotel. Their solutions have elevated guest experiences, and the support we received was unparalleled. Our guests have noticed the difference!',
-      customer: 'Manjula Perera',
-      image: '/ManjulaPerera.jpg',
+      customer: 'Chanaka Amarasinghe',
+      image: '/ChanakaA.jpg',
     },
     {
       rating: 5,
@@ -56,8 +56,8 @@ const TestimonialSlider = () => {
       rating: 5,
       title: 'Owner of Hotel Vacanza, Mirissa',
       content: 'Exceptional service! They helped us optimize our hotel’s management and marketing strategies, ensuring our guests enjoy a seamless stay. Their expertise is truly commendable, and I highly recommend them.',
-      customer: 'Samantha Wijeratne',
-      image: '/SamanthaWijeratne.jpg',
+      customer: 'Chanaka Amarasinghe',
+      image: '/ChanakaA.jpg',
     },
     {
       rating: 5,
