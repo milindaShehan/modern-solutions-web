@@ -8,7 +8,7 @@ export default function ServicesHero() {
                 </h1>
                 <p className="mb-8 text-lg font-normal text-gray-600 lg:text-xl sm:px-16 xl:px-48">
                     Explore a wide range of innovative solutions designed to meet the unique needs of your business.
-                    Whether it's digital transformation, marketing strategies, or custom software solutions, we
+                    Whether it&apos;s digital transformation, marketing strategies, or custom software solutions, we
                     deliver results that help you grow, compete, and thrive in a digital-first world.
                 </p>
                 <div className="flex flex-col items-center space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
