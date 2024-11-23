@@ -1,7 +1,7 @@
 import React from "react";
 
 const Footer = () => {
-  const year = new Date().getFullYear();
+  // const year = new Date().getFullYear() - 1;
   return (
     <footer className="p-4 bg-white sm:p-6 border border-gray-100">
       <div className="mx-auto max-w-screen-xl">
@@ -14,9 +14,7 @@ const Footer = () => {
                   className="mr-3 h-20"
                   alt="Modern Equipment Solutions Logo"
                 />
-                {/* <span className="self-center text-2xl font-semibold whitespace-nowrap">
-                  Modern<span className="text-primary"> Equipment Solutions</span>
-                </span> */}
+                
               </a>
             </div>
             <div className="max-w-lg mt-6 text-black">
@@ -92,7 +90,7 @@ const Footer = () => {
         <hr className="my-6 border-gray-200 sm:mx-auto lg:my-8" />
         <div className="sm:flex sm:items-center sm:justify-between">
           <span className="text-sm text-gray-500 sm:text-center">
-            © {year}{" "}
+            © {2023}{" "}
             <a href="https://msiclabs.com" className="hover:underline hover:text-primary font-bold">
               Modern Equipment Solutions™
             </a>
