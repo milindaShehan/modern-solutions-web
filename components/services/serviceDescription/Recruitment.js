@@ -27,7 +27,7 @@ const EmployeeRecruitment = () => {
             <p className="mb-8 font-light lg:text-lg">
               We provide tailored recruitment solutions to help businesses find the best candidates for their needs.
               Our 3rd party recruitment services ensure that only the most qualified individuals are matched with your
-              organization's requirements, streamlining the hiring process and ensuring quality hires.
+              organization&apos;s requirements, streamlining the hiring process and ensuring quality hires.
             </p>
 
             <ul

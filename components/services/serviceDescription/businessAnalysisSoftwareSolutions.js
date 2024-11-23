@@ -15,7 +15,7 @@ const BusinessAnalysisSoftwareSolutions = () => {
             </h2>
             <p className="mb-8 font-light lg:text-lg">
               We specialize in evaluating your business challenges and providing tailored digital and software
-              solutions to optimize your operations. Whether it's automating processes, improving user experience,
+              solutions to optimize your operations. Whether it&apos;s automating processes, improving user experience,
               or integrating new technologies, we help your business stay ahead of the curve.
             </p>
 

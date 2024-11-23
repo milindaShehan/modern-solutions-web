@@ -18,7 +18,7 @@ const Scooter = () => {
             <p className="mb-8 font-light lg:text-lg">
               At Modern Equipment and Solutions Pvt Ltd, we are committed to
               empowering individuals and businesses to experience freedom and
-              efficiency through innovative solutions. Whether it's modern
+              efficiency through innovative solutions. Whether it is modern
               equipment or tailored digital services, we ensure every client
               receives the best tools to unlock their potential and achieve
               their goals.
